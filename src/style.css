@@ -10,5 +10,5 @@ body{
 
 .bigwords{
   font-size: 30px;
-  font-family: 'sofachrome', sans-serif;
+  font-family: 'sofachrome', Fallback, sans-serif;
 }
