@@ -1,14 +1,14 @@
-body{
+.body{
   background-color: linear-gradient(black,black,blue);
   color: white; 
 }
 
 @font-face{
-  font-family: 'sofachrome';
+  font-family: "sofachrome";
   src: url('sofachrome.otf') format('otf');
 }
 
 .bigwords{
   font-size: 30px;
-  font-family: 'sofachrome', Fallback, sans-serif;
+  font: 30px "sofachrome", sans-serif;
 }
