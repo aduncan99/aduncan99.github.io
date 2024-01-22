@@ -4,11 +4,11 @@ body{
 }
 
 @font-face{
-  font-family: 'game';
+  font-family: 'sofachrome';
   src: url('sofachrome.otf') format('otf');
 }
 
 .bigwords{
   font-size: 30px;
-  font-family: 'game', monospace;
+  font-family: 'sofachrome', sans-serif;
 }
