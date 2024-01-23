@@ -1,9 +1,4 @@
-@font-face{
-  font-family: "sofachrome";
-  src: url('sofachrome.otf') format('otf');
-}
-
-.body{
+body{
   background-color: black;
   color: white; 
 }
